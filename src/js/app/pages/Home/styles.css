@@ -1,0 +1,9 @@
+.item {
+  background: #fff;
+  height: 60px;
+  border-bottom: 1px solid #e1ecf0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 15px;
+}
